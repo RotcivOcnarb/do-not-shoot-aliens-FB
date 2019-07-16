@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "707089020518",
+    "firebase_url": "https://do-not-shoot-aliens.firebaseio.com",
+    "project_id": "do-not-shoot-aliens",
+    "storage_bucket": "do-not-shoot-aliens.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:707089020518:android:1eb8ba923da69519",
+        "android_client_info": {
+          "package_name": "com.codeer.DonotShootAlien"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "707089020518-ch7nmhcfj5mp3phelrtuqggf0cc3cgu3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTlk-08R2IxcXhcpnijUov9o1eAIVaQq0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "707089020518-ch7nmhcfj5mp3phelrtuqggf0cc3cgu3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

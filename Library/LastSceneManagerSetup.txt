@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Do not shoot Aliens/Game assets/Scenes/Game scene.unity
+  isLoaded: 1
+  isActive: 1
